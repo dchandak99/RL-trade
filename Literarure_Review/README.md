@@ -1,6 +1,6 @@
 # Literature Review
 
-This directory contains papers we have referenced for our application
+This directory contains papers we have referenced for our application.
 
 ## Direct Links
 
